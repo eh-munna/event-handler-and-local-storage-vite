@@ -1,0 +1,79 @@
+[
+  {
+    "id": "6424d2533c0e7caf2f28ff8e",
+    "name": "Armstrong Mcgowan",
+    "gender": "male",
+    "company": "COFINE",
+    "email": "armstrongmcgowan@cofine.com",
+    "phone": "+1 (866) 426-2287",
+    "address": "374 Commercial Street, Dotsero, Georgia, 2681",
+    "about": "Commodo voluptate mollit sit in aliquip pariatur nulla pariatur excepteur. Sunt fugiat labore eiusmod dolore proident in exercitation esse eu dolor. Incididunt nulla culpa ipsum est ipsum veniam id commodo. Labore reprehenderit amet deserunt quis sit excepteur minim ullamco Lorem exercitation. Amet nostrud ea occaecat quis officia pariatur amet exercitation.\r\n",
+    "registered": "2020-09-04T11:17:05 -02:00"
+  },
+  {
+    "id": "6424d2532721d01f6076ca06",
+    "name": "Stanley Noel",
+    "gender": "male",
+    "company": "TERSANKI",
+    "email": "stanleynoel@tersanki.com",
+    "phone": "+1 (988) 550-3304",
+    "address": "137 Drew Street, Hampstead, Wisconsin, 7390",
+    "about": "Commodo fugiat nulla reprehenderit eiusmod commodo. Tempor nisi adipisicing qui ullamco id occaecat laboris mollit aliquip. Incididunt Lorem est aliqua eiusmod nulla ullamco cupidatat. Velit labore duis cillum sint adipisicing dolore quis veniam ut nostrud fugiat duis.\r\n",
+    "registered": "2020-03-03T03:38:38 -01:00"
+  },
+  {
+    "id": "6424d2538e353c93397c7a8c",
+    "name": "Lela Stokes",
+    "gender": "female",
+    "company": "EMOLTRA",
+    "email": "lelastokes@emoltra.com",
+    "phone": "+1 (941) 414-3722",
+    "address": "504 Varick Street, Weeksville, Alabama, 7212",
+    "about": "Amet excepteur in irure id non consequat dolore laborum incididunt ullamco aliqua nostrud. Occaecat qui tempor deserunt eu duis amet deserunt excepteur ut Lorem. Eiusmod officia reprehenderit sit esse. Ut et nulla voluptate irure sint nulla exercitation voluptate excepteur laboris eu nulla in. Ex dolor aliquip incididunt duis in aute id in commodo eiusmod labore commodo aliqua nulla. Proident occaecat quis sit proident.\r\n",
+    "registered": "2019-12-22T01:43:08 -01:00"
+  },
+  {
+    "id": "6424d253452dda283c51689e",
+    "name": "Kirk Lester",
+    "gender": "male",
+    "company": "ILLUMITY",
+    "email": "kirklester@illumity.com",
+    "phone": "+1 (885) 424-2307",
+    "address": "183 Canda Avenue, Winfred, California, 5162",
+    "about": "Ex ipsum Lorem ea consequat consectetur commodo cupidatat nulla dolore laboris officia amet dolor. Culpa magna enim pariatur officia dolor officia sunt laborum. Magna id eiusmod nisi incididunt.\r\n",
+    "registered": "2015-01-06T04:52:55 -01:00"
+  },
+  {
+    "id": "6424d253dae3164fc7f88368",
+    "name": "Bonner Maynard",
+    "gender": "male",
+    "company": "EXOBLUE",
+    "email": "bonnermaynard@exoblue.com",
+    "phone": "+1 (936) 450-2076",
+    "address": "297 Remsen Avenue, Gorst, Virgin Islands, 1107",
+    "about": "Non labore officia ipsum eu laborum cupidatat ullamco et fugiat voluptate exercitation id ad sit. Elit cupidatat ex amet ea ex adipisicing veniam ullamco enim et. Sint ipsum tempor duis culpa irure.\r\n",
+    "registered": "2015-04-01T01:11:49 -02:00"
+  },
+  {
+    "id": "6424d253b3fca9bb3212f566",
+    "name": "Fern Santos",
+    "gender": "female",
+    "company": "MICRONAUT",
+    "email": "fernsantos@micronaut.com",
+    "phone": "+1 (949) 569-3786",
+    "address": "213 Sumner Place, Whipholt, New York, 5258",
+    "about": "Eiusmod culpa mollit exercitation aliquip pariatur do nisi ullamco excepteur ullamco. Voluptate nostrud aute dolor ex quis minim ut do duis do. Eu ea ullamco occaecat culpa fugiat anim amet dolore consectetur. Mollit nulla aliquip anim officia in ad et et.\r\n",
+    "registered": "2019-05-18T02:25:28 -02:00"
+  },
+  {
+    "id": "6424d253fd8d298928fd77b4",
+    "name": "Todd Morgan",
+    "gender": "male",
+    "company": "OPTIQUE",
+    "email": "toddmorgan@optique.com",
+    "phone": "+1 (945) 474-2732",
+    "address": "405 Imlay Street, Lavalette, Arizona, 3177",
+    "about": "Consequat laboris ex aute nulla esse. Deserunt excepteur magna aute do veniam pariatur et dolor incididunt cillum officia dolore aliquip. Pariatur quis commodo quis amet esse elit excepteur aute ea incididunt mollit ea exercitation sit. Elit sit deserunt sit sunt amet ut. Tempor eiusmod amet laboris veniam elit consequat nulla irure pariatur voluptate cillum mollit incididunt nostrud. Sit velit labore nisi Lorem. Ex nisi mollit irure sit amet nostrud duis et ad.\r\n",
+    "registered": "2015-03-28T05:36:04 -01:00"
+  }
+]
