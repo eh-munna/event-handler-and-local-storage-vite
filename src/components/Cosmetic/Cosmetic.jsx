@@ -5,7 +5,7 @@ const Cosmetic = ({ customer }) => {
   // console.log(customer);
   const { id, name, company } = customer;
   const addToStore = (id) => {
-    console.log(id);
+    addToDb(id);
   };
   return (
     <div
@@ -15,7 +15,7 @@ const Cosmetic = ({ customer }) => {
       <h5>Customer name : {name}</h5>
       <h6>Company name : {company}€</h6>
       <button onClick={() => addToStore(id)}>Add to Storage</button>
-      <button onClick={() => addToDb(id)}>Add to Database</button>
+      {/* <button onClick={() => addToDb(id)}>Add to Database</button> */}
     </div>
   );
 };
