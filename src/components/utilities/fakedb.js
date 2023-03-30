@@ -15,6 +15,12 @@
 const addToDb = (id) => {
   let shoppingCart = {};
 
+  const storedCart = localStorage.getItem('shopping-cart');
+
+  if (storedCart) {
+    shoppingCart = JSON.parse(storedCart);
+  }
+
   const quantity = shoppingCart[id];
   // we pass id as key to access the value of the object
 
